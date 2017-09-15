@@ -62,7 +62,7 @@ $ git push origin master
 <img width="1047" alt="screen shot 2017-09-12 at 11 16 29 am" src="https://user-images.githubusercontent.com/595772/30333903-17c8e12a-97ac-11e7-84d3-eca58dcbc12c.png">
 <img width="801" alt="screen shot 2017-09-12 at 11 17 16 am" src="https://user-images.githubusercontent.com/595772/30333907-1ace7c04-97ac-11e7-9034-071ad1b0de00.png">
 
-12. The upstream administrator merge your PR:
+12. The upstream administrator merges your PR:
 <img width="813" alt="screen shot 2017-09-12 at 11 17 26 am" src="https://user-images.githubusercontent.com/595772/30333912-1c635396-97ac-11e7-8921-c92a7718719e.png">
 
 Then, you should switch back to the local master branch, pull the changes from the upstream repo and push the changes to your forked repo:
